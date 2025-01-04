@@ -1,7 +1,8 @@
 # Featurization_Model_Tuning
 This contains sample project on Featurization, Model Selection and Model Tuning.
 
-DOMAIN : Semiconductor manufacturing process¶
+DOMAIN : Semiconductor manufacturing process.
+
 CONTEXT :
 A complex modern semiconductor manufacturing process is normally under constant surveillance via the monitoring of signals/variables collected from sensors and or process measurement points. However, 
 not all of these signals are equally valuable in a specific monitoring system. The measured signals contain a combination of useful information, irrelevant information as well as noise. Engineers typically
